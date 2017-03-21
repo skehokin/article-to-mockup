@@ -1,4 +1,5 @@
-You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+You've learned a lot about web development so far. I want you to take a moment to write down your 
+thoughts about web development here. Answer the following questions:
   * What new skills have you learned?
   * What has been easy?
   * What has been difficult?
@@ -8,12 +9,22 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 Your response goes here!
 
-This part of the course is very much an overview of things I have done before, but I've chosen to go through it primarily for the potential of reinforcing what I know. These are the skills I have improved as part of doing this project/section: careful attention to indenting,  speed-typing of html elements, and attention to detail while doing relatively basic tasks. I also learned that "<del>" or "<s>" are prefered over "<strike>", that single tag elements don't have "/" in them any more, and was made aware of the "<sup>" element (which seems like it should surround a greeting, haha.) Learning about trees has also been helpful.
+This part of the course is very much an overview of things I have done before, but I've chosen to
+go through it primarily for the potential of reinforcing what I know. These are the skills I have
+improved as part of doing this project/section: careful attention to indenting,  speed-typing of 
+html elements, and attention to detail while doing relatively basic tasks. I also learned that 
+"<del>" or "<s>" are prefered over "<strike>", that single tag elements don't have "/" in them any
+more, and was made aware of the "<sup>" element (which seems like it should surround a greeting, 
+haha.) Learning about trees has also been helpful.
 
 Most of this project and the rest of this section was easy. 
 
-In the project, it was difficult to get all the lines within my desired line-length, and impossible for some of the long urls. This wasn't really necessary but it improved HTML readability no end. Evaluating the semantic subtleties of elements in relation to various ways to strikethrough was also a little confusing.
+In the project, it was difficult to get all the lines within my desired line-length, and 
+impossible for some of the long urls. This wasn't really necessary but it improved HTML 
+readability no end. Evaluating the semantic subtleties of elements in relation to various ways to
+strikethrough was also a little confusing.
 
-In the rest of the section, the thing that caused me the most problems was simple carelessness. I hope to improve my attention to detail as we go forward.
+In the rest of the section, the thing that caused me the most problems was simple carelessness. I 
+hope to improve my attention to detail as we go forward.
 
 In terms of problem solving strategies, a quick googling is the main tool I have used.
